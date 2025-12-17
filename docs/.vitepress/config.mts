@@ -8,7 +8,9 @@ export default defineConfig({
 
   themeConfig: {
     logo: '/logo.svg',
-
+    markdown: {
+      math: true
+    },
     nav: [
       { text: '首页', link: '/' },
       { text: '算法', link: '/dsa/', activeMatch: '/dsa/' },
@@ -31,6 +33,8 @@ export default defineConfig({
             { text: '53. 最大子数组和', link: '/dsa/leetcode/53-maximum-subarray' },
             { text: '56. 合并区间', link: '/dsa/leetcode/56-merge-intervals' },
             { text: '76. 最小覆盖子串', link: '/dsa/leetcode/76-minimum-window-substring' },
+            { text: '189. 轮转数组', link: '/dsa/leetcode/189-rotate-array' },
+            { text: '238. 除自身以外数组的乘积', link: '/dsa/leetcode/238-product-of-array-except-self' },
             { text: '239. 滑动窗口最大值', link: '/dsa/leetcode/239-sliding-window-maximum' }
           ]
         },
