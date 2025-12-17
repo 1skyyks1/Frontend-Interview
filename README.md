@@ -4,7 +4,7 @@ This repository is used to record my daily practice.
 
 ### Structure
 ```
-├── algorithms/        # DSA problems
+├── dsa/               # DSA problems
 │   ├── leetcode/      # From LeetCode
 │   └── hot/           # High-frequency
 ├── frontend/          # Frontend coding problems such as implementations
@@ -18,7 +18,7 @@ This repository is used to record my daily practice.
 ### 仓库结构
 
 ```
-├── algorithms/        # 通用算法题
+├── dsa/               # 通用算法题
 │   ├── leetcode/      # 日常力扣
 │   └── hot/           # 高频
 ├── frontend/          # 前端面试算法题如手撕

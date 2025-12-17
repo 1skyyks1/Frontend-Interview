@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+    <!-- 左括号 -->
+    <path d="M35 20C20 20 20 35 20 35V45C20 45 10 50 10 50C10 50 20 55 20 55V65C20 65 20 80 35 80"
+          stroke="#3178C6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- 右括号 -->
+    <path d="M65 20C80 20 80 35 80 35V45C80 45 90 50 90 50C90 50 80 55 80 55V65C80 65 80 80 65 80"
+          stroke="#3178C6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- 中间排序柱状图 (代表算法) -->
+    <rect x="35" y="55" width="8" height="15" rx="2" fill="#35495e"/>
+    <rect x="46" y="45" width="8" height="25" rx="2" fill="#42b883"/>
+    <rect x="57" y="35" width="8" height="35" rx="2" fill="#35495e"/>
+</svg>
