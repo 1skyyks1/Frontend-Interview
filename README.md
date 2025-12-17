@@ -1,4 +1,4 @@
-# YKS FE Algorithm Practice
+# YKS Frontend Interview
 
 This repository is used to record my daily practice.
 
@@ -11,7 +11,7 @@ This repository is used to record my daily practice.
 └── interview/         # Interview notes on CS & frontend knowledge
  ```
 
-# YKS 前端算法练习
+# YKS 前端面试笔记
 
 本仓库用于记录个人练习。
 

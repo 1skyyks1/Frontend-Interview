@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Frontend Interview",
   description: "前端算法 · 手撕 · 八股文",
-
+  base: 'Frontend-Interview',
   head: [['link', { rel: 'icon', href: '/logo.svg' }]],
 
   themeConfig: {
