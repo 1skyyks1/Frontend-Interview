@@ -64,7 +64,7 @@ export default defineConfig({
           text: '八股文',
           items: [
             { text: '总览', link: '/interview/' },
-            { text: 'JS', link: '/interview/js' },
+            { text: 'JavaScript', link: '/interview/js' },
             { text: 'ES6', link: '/interview/es6' },
             { text: 'CSS', link: '/interview/css' },
             { text: 'Vue', link: '/interview/vue' },
@@ -78,10 +78,6 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/1skyyks1/FE-Algorithm-Interview' }
     ],
-
-    footer: {
-      copyright: 'Copyright © 2025-present yks1'
-    },
 
     search: {
       provider: 'local'
