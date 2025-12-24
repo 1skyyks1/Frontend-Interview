@@ -1,6 +1,6 @@
 # 3634. 使数组平衡的最少移除数目
 
-> 题目链接：<https://leetcode.cn/problems/minimum-removals-to-balance-array/
+> 题目链接：<https://leetcode.cn/problems/minimum-removals-to-balance-array/>
 
 ## 代码
 
